@@ -1,0 +1,46 @@
+/* add your CSS here */
+body {
+  font-family: sans-serif;
+  margin: auto;
+}
+
+#card-box {
+  border: 2px solid #CFC9C4;
+  margin: 20px;
+  padding: 20px;
+  width: 300px;
+  -webkit-box-shadow: 7px 6px 25px -4px rgba(94,87,94,0.59);
+  -moz-box-shadow: 7px 6px 25px -4px rgba(94,87,94,0.59);
+  box-shadow: 7px 6px 25px -4px rgba(94,87,94,0.59);
+  font-size: 0.75em;
+}
+
+h3 {
+  font-size: 2em;
+}
+
+img {
+  width: 300px;
+  margin: auto;
+}
+
+#info-box {
+  border: 2px solid #CFC9C4;
+  padding: 10px 20px;
+
+}
+#interesting-fact {
+  font-style: italic;
+}
+
+ul {
+  list-style-type:none;
+  padding-left: 0;
+}
+li {
+  font-style: italic;
+}
+span {
+  font-style: normal;
+  font-weight: bold;
+}
